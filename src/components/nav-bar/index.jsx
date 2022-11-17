@@ -10,7 +10,6 @@ const Navegacion = () => {
         <div>
         <Navbar bg="dark" variant="dark" className="">
             <Navbar.Brand href="#home" className="mx-3 fs-3">Mateo Rodriguez Garcia <span>Desarrollador Web Junior</span></Navbar.Brand>
-            <Navbar.Toggle />
             <Navbar.Collapse className="justify-content-end mx-3"/>
             <Nav className="me-auto">
                 <Nav.Link href="#quien-soy">¿Quien soy?</Nav.Link>
