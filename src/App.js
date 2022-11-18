@@ -6,7 +6,7 @@ import { Row } from 'react-bootstrap';
 
 const App = () => {
   return (
-    <div className="App">
+    <div className="App" id='home'>
       <Navegacion/>
       <div className="container">
         <Row> 
