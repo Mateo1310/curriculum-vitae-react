@@ -1,5 +1,9 @@
-
 span{
     font-size: 1rem;
     color: #9b9b9b;
+}
+
+.navbar-collapse {
+    flex-basis: 1;
+    flex-grow: 0;
 }

@@ -15,7 +15,7 @@ const Experience = () => {
                         <div class="section-experience m-3">
                             <div class="exp-lab">
                                 <div class="d-flex justify-content-between">
-                                    <h6 class="fw-bold">Tecnico hardward en Reparacion de dispositivos moviles.</h6>
+                                    <h6 class="fw-bold">Tecnico hardware en Reparacion de dispositivos moviles.</h6>
                                     <span>2020-2021</span>
                                 </div>
 
