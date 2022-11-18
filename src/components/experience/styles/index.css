@@ -1,0 +1,13 @@
+.container-experience {
+    color: #474747;
+    background-color: #cecccc;
+    width: 100%;
+}
+
+.container-experience .section-experience{
+    text-align: justify;
+}
+
+.section-experience span{
+    color: #575656;
+}

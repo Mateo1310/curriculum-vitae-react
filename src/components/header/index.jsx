@@ -1,5 +1,5 @@
 import React from "react";
-import './styles/styles.css'
+import './styles/index.css'
 import { Container, Row } from "react-bootstrap";
 import Foto from './img/foto-mateo.png';
 
