@@ -24,8 +24,8 @@ GIT
 * [CSS](https://css.com/) - Hojas de estilo en cascada
 * [JAVASCRIPT](https://javascript.com/) - Hojas de estilo en cascada
 * [REACT JS](https://https://reactjs.org//) - Libreria Front-end utilizada
-* [BOOTSTRAP](https://getbootstrap.com/) - Framework font-end utilizado
-* [REACT-BOOTSTRAP](https://react-bootstrap.github.io/) - Framework font-end utilizado
+* [BOOTSTRAP](https://getbootstrap.com/) - Framework front-end utilizado
+* [REACT-BOOTSTRAP](https://react-bootstrap.github.io/) - Framework front-end utilizado con la libreria REACT JS
 * [GITHUB](https://github.com/) - Sistema de control de versiones utilizado
 
 ## Versionado 📌
