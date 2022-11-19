@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/curriculum-vitae-react/static/css/main.073c9b0a.css",
-    "main.js": "/curriculum-vitae-react/static/js/main.0b203308.js",
-    "static/js/787.b4f1fedc.chunk.js": "/curriculum-vitae-react/static/js/787.b4f1fedc.chunk.js",
-    "static/media/logo.svg": "/curriculum-vitae-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/curriculum-vitae-react/index.html",
-    "main.073c9b0a.css.map": "/curriculum-vitae-react/static/css/main.073c9b0a.css.map",
-    "main.0b203308.js.map": "/curriculum-vitae-react/static/js/main.0b203308.js.map",
-    "787.b4f1fedc.chunk.js.map": "/curriculum-vitae-react/static/js/787.b4f1fedc.chunk.js.map"
+    "main.css": "/Mateo1310/curriculum-vitae-react/static/css/main.3270f50c.css",
+    "main.js": "/Mateo1310/curriculum-vitae-react/static/js/main.2e00c354.js",
+    "static/js/787.b4f1fedc.chunk.js": "/Mateo1310/curriculum-vitae-react/static/js/787.b4f1fedc.chunk.js",
+    "static/media/foto-mateo.png": "/Mateo1310/curriculum-vitae-react/static/media/foto-mateo.fff69cd7f9be38640e3c.png",
+    "index.html": "/Mateo1310/curriculum-vitae-react/index.html",
+    "main.3270f50c.css.map": "/Mateo1310/curriculum-vitae-react/static/css/main.3270f50c.css.map",
+    "main.2e00c354.js.map": "/Mateo1310/curriculum-vitae-react/static/js/main.2e00c354.js.map",
+    "787.b4f1fedc.chunk.js.map": "/Mateo1310/curriculum-vitae-react/static/js/787.b4f1fedc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0b203308.js"
+    "static/css/main.3270f50c.css",
+    "static/js/main.2e00c354.js"
   ]
 }
