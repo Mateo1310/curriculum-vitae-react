@@ -5,6 +5,7 @@ import Navegacion from './components/nav-bar';
 import Header from './components/header';
 import Experience from './components/experience';
 import EducacionHabilidades from './components/edu-hab';
+import Contacto from './components/contact';
 
 const App = () => {
   return (
@@ -12,7 +13,8 @@ const App = () => {
       <Navegacion/>
       <Header/>
       <Experience/>
-      <EducacionHabilidades />
+      <EducacionHabilidades/>
+      <Contacto/>
     </div>
   );
 }

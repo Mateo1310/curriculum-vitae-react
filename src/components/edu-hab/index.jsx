@@ -36,51 +36,51 @@ const EducacionHabilidades = () => {
                     </div>
                     <div className="col-sm-12 col-md-12 col-lg-6 col-xl-6 my-3">
                         <h1 className="fw-bold align-middle my-3">HABILIDADES</h1>
-                        <div class="row my-3">
-                            <div class="col-sm-4">
+                        <div className="row my-3">
+                            <div className="col-4">
                                 <h5>JAVA</h5>
                             </div>
-                            <div class="col-sm-8">
+                            <div className="col-8">
                                 <ProgressBar animated variant="dark" now={80} label={`80%`} />
                             </div>
                         </div>
-                        <div class="row my-3">
-                            <div class="col-sm-4">
+                        <div className="row my-3">
+                            <div className="col-4">
                                 <h5>JAVASCRIPT</h5>
                             </div>
-                            <div class="col-sm-8">
+                            <div className="col-8">
                                 <ProgressBar animated variant="dark" now={50} label={`50%`} />
                             </div>
                         </div>
-                        <div class="row my-3">
-                            <div class="col-sm-4">
+                        <div className="row my-3">
+                            <div className="col-4">
                                 <h5>HTML</h5>
                             </div>
-                            <div class="col-sm-8">
+                            <div className="col-8">
                                 <ProgressBar animated variant="dark" now={70} label={`70%`} />
                             </div>
                         </div>
-                        <div class="row my-3">
-                            <div class="col-sm-4">
+                        <div className="row my-3">
+                            <div className="col-4">
                                 <h5>CSS</h5>
                             </div>
-                            <div class="col-sm-8">
+                            <div className="col-8">
                                 <ProgressBar animated variant="dark" now={50} label={`50%`} />
                             </div>
                         </div>
-                        <div class="row my-3">
-                            <div class="col-sm-4">
+                        <div className="row my-3">
+                            <div className="col-4">
                                 <h5>REACT JS</h5>
                             </div>
-                            <div class="col-sm-8">
+                            <div className="col-8">
                                 <ProgressBar animated variant="dark" now={30} label={`30%`} />
                             </div>
                         </div>
-                        <div class="row my-3">
-                            <div class="col-sm-4">
+                        <div className="row my-3">
+                            <div className="col-4">
                                 <h5>PYTHON</h5>
                             </div>
-                            <div class="col-sm-8">
+                            <div className="col-8">
                                 <ProgressBar animated variant="dark" now={60} label={`60%`} />
                             </div>
                         </div>
