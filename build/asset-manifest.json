@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mateo1310/curriculum-vitae-react/static/css/main.3270f50c.css",
+    "main.js": "/Mateo1310/curriculum-vitae-react/static/js/main.2e00c354.js",
+    "static/js/787.b4f1fedc.chunk.js": "/Mateo1310/curriculum-vitae-react/static/js/787.b4f1fedc.chunk.js",
+    "static/media/foto-mateo.png": "/Mateo1310/curriculum-vitae-react/static/media/foto-mateo.fff69cd7f9be38640e3c.png",
+    "index.html": "/Mateo1310/curriculum-vitae-react/index.html",
+    "main.3270f50c.css.map": "/Mateo1310/curriculum-vitae-react/static/css/main.3270f50c.css.map",
+    "main.2e00c354.js.map": "/Mateo1310/curriculum-vitae-react/static/js/main.2e00c354.js.map",
+    "787.b4f1fedc.chunk.js.map": "/Mateo1310/curriculum-vitae-react/static/js/787.b4f1fedc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3270f50c.css",
+    "static/js/main.2e00c354.js"
+  ]
+}
