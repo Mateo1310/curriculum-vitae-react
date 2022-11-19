@@ -3,7 +3,7 @@ import './styles/index.css';
 import { Row, Container } from "react-bootstrap";
 
 import { BiPhoneCall, BiMap } from 'react-icons/bi';
-import { AiOutlineMail, AiFillFacebook } from 'react-icons/ai';
+import { AiOutlineMail } from 'react-icons/ai';
 
 
 

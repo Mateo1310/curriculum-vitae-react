@@ -14,10 +14,10 @@ const Navegacion = () => {
                     <Navbar.Toggle aria-controls="navbarScroll"/>
                     <Navbar.Collapse id="navbarScroll d-flex justify-content-right">
                         <Nav className="me-auto my-2 my-lg-0" style={{ maxHeight: '200px' }} navbarScroll>
-                        |   <Nav.Link href="#quien-soy">¿Quien soy?</Nav.Link>
-                            <Nav.Link href="#experiencia">Experiencia</Nav.Link>
-                            <Nav.Link href="#educacion-habilidades">Educación Y Habilidades</Nav.Link>
-                            <Nav.Link href="#contacto" className="align-content-end">Contacto</Nav.Link>
+                        |   <Nav.Link href="#header">¿Quien soy?</Nav.Link>
+                            <Nav.Link href="#experience">Experiencia</Nav.Link>
+                            <Nav.Link href="#edu-hab">Educación Y Habilidades</Nav.Link>
+                            <Nav.Link href="#contact" className="align-content-end">Contacto</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>    
